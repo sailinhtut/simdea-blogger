@@ -1,0 +1,4 @@
+@import "../sass/customize_bootstrap.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
